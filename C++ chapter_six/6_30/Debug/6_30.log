@@ -1,0 +1,13 @@
+﻿生成启动时间为 2014/11/12 10:56:02。
+     1>项目“W:\Documents\Visual Studio 2012\Projects\C++ chapter_six\6_30\6_30.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Microsoft Visual Studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt 6_30.cpp
+         6_30.cpp
+     1>w:\documents\visual studio 2012\projects\c++ chapter_six\6_30\6_30.cpp(15): error C2561: “str_subrange”: 函数必须返回值
+                 w:\documents\visual studio 2012\projects\c++ chapter_six\6_30\6_30.cpp(7) : 参见“str_subrange”的声明
+     1>w:\documents\visual studio 2012\projects\c++ chapter_six\6_30\6_30.cpp(24): error C2144: 语法错误:“bool”的前面应有“;”
+     1>已完成生成项目“W:\Documents\Visual Studio 2012\Projects\C++ chapter_six\6_30\6_30.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:05.23
